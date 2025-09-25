@@ -45,7 +45,7 @@
                         "<td>
                             <div class='btn-group' role='group'>
                                 <a href='form_atualizar.php?id=". $livro['id'] . "'type='button' class='btn btn-primary'>Atualizar</a>
-                                <a href='#' type='button' class='btn btn-danger'>Excluir</a>
+                                <a href='excluir.php?id=" . $livro['id'] . "'type='button' class='btn btn-danger'>Excluir</a>
                             </div>
                         </td>";
                     echo "</tr>";
