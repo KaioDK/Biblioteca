@@ -11,9 +11,11 @@
         include_once 'pedaco.php';
     ?>
 
-    <div class="d-grid gap-2 d-md-block" style = "text-align: center; margin-top: 5%">
+    <div class="container2" class="d-grid gap-2 d-md-block" style = "text-align: center; margin-top: 5%">
+
         <a href="listar.php" type="button" class="btn btn-secondary">Acervo </a>
         <a href="form_cadastro.php" type="button" class="btn btn-secondary">Cadastrar Livro </a>
+
     </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>

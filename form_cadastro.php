@@ -11,8 +11,8 @@
         include_once 'pedaco.php';
     ?>
     
-    <h2 style="text-align: center">Cadastro de livros</h2>
     <div class="container">
+        <h2>Cadastro de livros</h2>
         <form action = "inserir.php" method = "POST">
             <div class="mb-3">
                 <input type="Text" class="form-control" placeholder="Digite o titulo do livro..." name = "titulo">

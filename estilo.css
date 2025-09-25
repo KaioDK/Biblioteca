@@ -1,0 +1,36 @@
+.container{
+    text-align: center;
+    height: 200;
+    margin-top: 100px;
+    background-color: white;
+    padding-left: 25px;
+    padding-top: 30px;
+    padding-bottom: 0.5%;
+    padding-right: 25px;
+    border-radius: 50px;
+    color: 	#1f1f1f;
+    
+}
+
+.container2{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: white;
+    padding-left: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 1%;
+    border-radius: 50px;
+    color: 	#181818;
+}
+
+body{
+    background-image: url("img/biblioteca.jpg");
+  }
+
+h2{
+  color: rgb(68, 68, 68);
+  margin-bottom: 5%;
+}

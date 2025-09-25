@@ -15,9 +15,9 @@
     require_once 'conexao.php';
     ?>
 
-    <h2 style="text-align: center">Lista de livros disponiveis</h2>
     <div class="container">
-        <table class="table table-dark table-striped">
+        <h2>Lista de livros disponiveis</h2>
+        <table class="table">
             <thead>
                 <tr>
                     <th scope="col">ID</th>
